@@ -1,0 +1,19 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Basic program for rest api",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayank151c/rest-api.git"
+  },
+  "author": "Mayank Choudhary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mayank151c/rest-api/issues"
+  },
+  "homepage": "https://github.com/Mayank151c/rest-api#readme"
+}
